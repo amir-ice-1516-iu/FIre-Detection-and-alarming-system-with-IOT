@@ -1,1 +1,1 @@
-# FIre-Detection-and-alarming-system-with-IOT
+# Fire-Detection-and-alarming-system-with-IOT
